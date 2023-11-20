@@ -1,0 +1,7 @@
+{
+	"mongoURI": "mongodb+srv://manasvini:2vv9ApoN9kLX6hrJ@socialnetwork.mg2jzvx.mongodb.net/?retryWrites=true&w=majority",
+	"jwtsecret": "mysecrettoken",
+	"githubClientID": "991b7bc3f3569e7a7bd7",
+	"githubSecret": "a9fd6ead6c296b3c8d6d674aced3d09c26472123",
+	"githubToken": "a9fd6ead6c296b3c8d6d674aced3d09c26472123"
+}
