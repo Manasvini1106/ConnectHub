@@ -1,5 +1,4 @@
-# ConnectHub
-# connectHub - My Project Experience
+# connectHub
 
 ## Overview
 connectHub is a full-stack social network application developed using the MERN stack (MongoDB, Express, React, Node.js). 
